@@ -1,0 +1,204 @@
+"D:\python 3.10.11\python.exe" C:\Users\lai\PycharmProjects\PythonProject\pytorch\chapter-2\02_COVID_19_cls.py 
+[tensor(7), tensor(1), tensor(4), tensor(8), tensor(5), tensor(0), tensor(4), tensor(2), tensor(3), tensor(8), tensor(1), tensor(4), tensor(6), tensor(3), tensor(7), tensor(1)]
+Epoch [0/100]
+Loss:0.0031 Train ACccuracy:94.4967% Test ACccuracy:97.4800%
+Epoch [1/100]
+Loss:0.0012 Train ACccuracy:97.6750% Test ACccuracy:97.8000%
+Epoch [2/100]
+Loss:0.0009 Train ACccuracy:98.3033% Test ACccuracy:98.0900%
+Epoch [3/100]
+Loss:0.0007 Train ACccuracy:98.5783% Test ACccuracy:98.5300%
+Epoch [4/100]
+Loss:0.0005 Train ACccuracy:98.9350% Test ACccuracy:98.4000%
+Epoch [5/100]
+Loss:0.0005 Train ACccuracy:99.0133% Test ACccuracy:98.8500%
+Epoch [6/100]
+Loss:0.0004 Train ACccuracy:99.2617% Test ACccuracy:98.6000%
+Epoch [7/100]
+Loss:0.0003 Train ACccuracy:99.3333% Test ACccuracy:98.8900%
+Epoch [8/100]
+Loss:0.0003 Train ACccuracy:99.3283% Test ACccuracy:98.9800%
+Epoch [9/100]
+Loss:0.0002 Train ACccuracy:99.5533% Test ACccuracy:98.9500%
+Epoch [10/100]
+Loss:0.0003 Train ACccuracy:99.4633% Test ACccuracy:99.0700%
+Epoch [11/100]
+Loss:0.0002 Train ACccuracy:99.5633% Test ACccuracy:99.0100%
+Epoch [12/100]
+Loss:0.0002 Train ACccuracy:99.6417% Test ACccuracy:99.0300%
+Epoch [13/100]
+Loss:0.0002 Train ACccuracy:99.6600% Test ACccuracy:99.1200%
+Epoch [14/100]
+Loss:0.0002 Train ACccuracy:99.6583% Test ACccuracy:99.0200%
+Epoch [15/100]
+Loss:0.0001 Train ACccuracy:99.7283% Test ACccuracy:99.0200%
+Epoch [16/100]
+Loss:0.0001 Train ACccuracy:99.7450% Test ACccuracy:99.1700%
+Epoch [17/100]
+Loss:0.0001 Train ACccuracy:99.7567% Test ACccuracy:99.1300%
+Epoch [18/100]
+Loss:0.0001 Train ACccuracy:99.7917% Test ACccuracy:99.1200%
+Epoch [19/100]
+Loss:0.0001 Train ACccuracy:99.8150% Test ACccuracy:98.9800%
+Epoch [20/100]
+Loss:0.0001 Train ACccuracy:99.7900% Test ACccuracy:99.0000%
+Epoch [21/100]
+Loss:0.0001 Train ACccuracy:99.8283% Test ACccuracy:99.1300%
+Epoch [22/100]
+Loss:0.0001 Train ACccuracy:99.8233% Test ACccuracy:99.1300%
+Epoch [23/100]
+Loss:0.0001 Train ACccuracy:99.8483% Test ACccuracy:99.1900%
+Epoch [24/100]
+Loss:0.0001 Train ACccuracy:99.8317% Test ACccuracy:99.0600%
+Epoch [25/100]
+Loss:0.0001 Train ACccuracy:99.8550% Test ACccuracy:99.1400%
+Epoch [26/100]
+Loss:0.0001 Train ACccuracy:99.8683% Test ACccuracy:99.1100%
+Epoch [27/100]
+Loss:0.0001 Train ACccuracy:99.8500% Test ACccuracy:99.0600%
+Epoch [28/100]
+Loss:0.0001 Train ACccuracy:99.8183% Test ACccuracy:99.0600%
+Epoch [29/100]
+Loss:0.0001 Train ACccuracy:99.8433% Test ACccuracy:99.1800%
+Epoch [30/100]
+Loss:0.0000 Train ACccuracy:99.9117% Test ACccuracy:99.1500%
+Epoch [31/100]
+Loss:0.0001 Train ACccuracy:99.8733% Test ACccuracy:99.0800%
+Epoch [32/100]
+Loss:0.0001 Train ACccuracy:99.8300% Test ACccuracy:99.2700%
+Epoch [33/100]
+Loss:0.0000 Train ACccuracy:99.8967% Test ACccuracy:99.0500%
+Epoch [34/100]
+Loss:0.0001 Train ACccuracy:99.8650% Test ACccuracy:99.0900%
+Epoch [35/100]
+Loss:0.0001 Train ACccuracy:99.8600% Test ACccuracy:99.1700%
+Epoch [36/100]
+Loss:0.0000 Train ACccuracy:99.8967% Test ACccuracy:99.0700%
+Epoch [37/100]
+Loss:0.0001 Train ACccuracy:99.8900% Test ACccuracy:99.0800%
+Epoch [38/100]
+Loss:0.0000 Train ACccuracy:99.9117% Test ACccuracy:99.2400%
+Epoch [39/100]
+Loss:0.0001 Train ACccuracy:99.8883% Test ACccuracy:99.2500%
+Epoch [40/100]
+Loss:0.0001 Train ACccuracy:99.8767% Test ACccuracy:99.0400%
+Epoch [41/100]
+Loss:0.0000 Train ACccuracy:99.9083% Test ACccuracy:99.2000%
+Epoch [42/100]
+Loss:0.0001 Train ACccuracy:99.9067% Test ACccuracy:99.2000%
+Epoch [43/100]
+Loss:0.0000 Train ACccuracy:99.9050% Test ACccuracy:98.9500%
+Epoch [44/100]
+Loss:0.0001 Train ACccuracy:99.8767% Test ACccuracy:99.1500%
+Epoch [45/100]
+Loss:0.0001 Train ACccuracy:99.9050% Test ACccuracy:99.1000%
+Epoch [46/100]
+Loss:0.0000 Train ACccuracy:99.9133% Test ACccuracy:99.2600%
+Epoch [47/100]
+Loss:0.0001 Train ACccuracy:99.9017% Test ACccuracy:99.2000%
+Epoch [48/100]
+Loss:0.0001 Train ACccuracy:99.8900% Test ACccuracy:99.1700%
+Epoch [49/100]
+Loss:0.0000 Train ACccuracy:99.9333% Test ACccuracy:99.3000%
+Epoch [50/100]
+Loss:0.0001 Train ACccuracy:99.9133% Test ACccuracy:99.1700%
+Epoch [51/100]
+Loss:0.0001 Train ACccuracy:99.8900% Test ACccuracy:99.2000%
+Epoch [52/100]
+Loss:0.0000 Train ACccuracy:99.9450% Test ACccuracy:99.1800%
+Epoch [53/100]
+Loss:0.0001 Train ACccuracy:99.9067% Test ACccuracy:99.0500%
+Epoch [54/100]
+Loss:0.0001 Train ACccuracy:99.8900% Test ACccuracy:99.0800%
+Epoch [55/100]
+Loss:0.0000 Train ACccuracy:99.9200% Test ACccuracy:99.0200%
+Epoch [56/100]
+Loss:0.0000 Train ACccuracy:99.9017% Test ACccuracy:99.1600%
+Epoch [57/100]
+Loss:0.0000 Train ACccuracy:99.9267% Test ACccuracy:99.1400%
+Epoch [58/100]
+Loss:0.0000 Train ACccuracy:99.9400% Test ACccuracy:99.1900%
+Epoch [59/100]
+Loss:0.0000 Train ACccuracy:99.9450% Test ACccuracy:99.2000%
+Epoch [60/100]
+Loss:0.0001 Train ACccuracy:99.9017% Test ACccuracy:99.1000%
+Epoch [61/100]
+Loss:0.0001 Train ACccuracy:99.9067% Test ACccuracy:99.1400%
+Epoch [62/100]
+Loss:0.0001 Train ACccuracy:99.9167% Test ACccuracy:99.2400%
+Epoch [63/100]
+Loss:0.0000 Train ACccuracy:99.9467% Test ACccuracy:99.2400%
+Epoch [64/100]
+Loss:0.0000 Train ACccuracy:99.9417% Test ACccuracy:99.2000%
+Epoch [65/100]
+Loss:0.0000 Train ACccuracy:99.9200% Test ACccuracy:99.1900%
+Epoch [66/100]
+Loss:0.0000 Train ACccuracy:99.9617% Test ACccuracy:99.0400%
+Epoch [67/100]
+Loss:0.0001 Train ACccuracy:99.9083% Test ACccuracy:99.0000%
+Epoch [68/100]
+Loss:0.0000 Train ACccuracy:99.9383% Test ACccuracy:99.1800%
+Epoch [69/100]
+Loss:0.0000 Train ACccuracy:99.9483% Test ACccuracy:99.1000%
+Epoch [70/100]
+Loss:0.0001 Train ACccuracy:99.9133% Test ACccuracy:99.1700%
+Epoch [71/100]
+Loss:0.0000 Train ACccuracy:99.9417% Test ACccuracy:99.2200%
+Epoch [72/100]
+Loss:0.0000 Train ACccuracy:99.9567% Test ACccuracy:99.0100%
+Epoch [73/100]
+Loss:0.0000 Train ACccuracy:99.9400% Test ACccuracy:99.1100%
+Epoch [74/100]
+Loss:0.0001 Train ACccuracy:99.9367% Test ACccuracy:99.1300%
+Epoch [75/100]
+Loss:0.0001 Train ACccuracy:99.9367% Test ACccuracy:99.1700%
+Epoch [76/100]
+Loss:0.0000 Train ACccuracy:99.9217% Test ACccuracy:99.1200%
+Epoch [77/100]
+Loss:0.0000 Train ACccuracy:99.9400% Test ACccuracy:99.1400%
+Epoch [78/100]
+Loss:0.0000 Train ACccuracy:99.9467% Test ACccuracy:99.0500%
+Epoch [79/100]
+Loss:0.0000 Train ACccuracy:99.9300% Test ACccuracy:99.0800%
+Epoch [80/100]
+Loss:0.0000 Train ACccuracy:99.9283% Test ACccuracy:99.0800%
+Epoch [81/100]
+Loss:0.0000 Train ACccuracy:99.9533% Test ACccuracy:99.2000%
+Epoch [82/100]
+Loss:0.0000 Train ACccuracy:99.9317% Test ACccuracy:99.1400%
+Epoch [83/100]
+Loss:0.0000 Train ACccuracy:99.9500% Test ACccuracy:99.1300%
+Epoch [84/100]
+Loss:0.0000 Train ACccuracy:99.9350% Test ACccuracy:99.1400%
+Epoch [85/100]
+Loss:0.0000 Train ACccuracy:99.9500% Test ACccuracy:99.2000%
+Epoch [86/100]
+Loss:0.0000 Train ACccuracy:99.9417% Test ACccuracy:99.1200%
+Epoch [87/100]
+Loss:0.0000 Train ACccuracy:99.9383% Test ACccuracy:99.1800%
+Epoch [88/100]
+Loss:0.0000 Train ACccuracy:99.9517% Test ACccuracy:99.1200%
+Epoch [89/100]
+Loss:0.0001 Train ACccuracy:99.9217% Test ACccuracy:99.2300%
+Epoch [90/100]
+Loss:0.0000 Train ACccuracy:99.9517% Test ACccuracy:99.2500%
+Epoch [91/100]
+Loss:0.0000 Train ACccuracy:99.9533% Test ACccuracy:99.2100%
+Epoch [92/100]
+Loss:0.0001 Train ACccuracy:99.9367% Test ACccuracy:99.0000%
+Epoch [93/100]
+Loss:0.0000 Train ACccuracy:99.9717% Test ACccuracy:99.1900%
+Epoch [94/100]
+Loss:0.0000 Train ACccuracy:99.9500% Test ACccuracy:99.0200%
+Epoch [95/100]
+Loss:0.0000 Train ACccuracy:99.9583% Test ACccuracy:99.1900%
+Epoch [96/100]
+Loss:0.0000 Train ACccuracy:99.9550% Test ACccuracy:99.0500%
+Epoch [97/100]
+Loss:0.0000 Train ACccuracy:99.9650% Test ACccuracy:99.0100%
+Epoch [98/100]
+Loss:0.0001 Train ACccuracy:99.9383% Test ACccuracy:99.1600%
+Epoch [99/100]
+Loss:0.0000 Train ACccuracy:99.9533% Test ACccuracy:99.1200%
+
+进程已结束，退出代码为 0
