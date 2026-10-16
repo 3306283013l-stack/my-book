@@ -1,0 +1,26 @@
+mode: default, 编译耗时:2.37，编译前运行耗时:5.55, 编译后运行耗时:7.29，耗时降低比例:-31.41%
+mode: reduce-overhead, 编译耗时:0.00，编译前运行耗时:3.72, 编译后运行耗时:10.09，耗时降低比例:-171.22%
+mode: max-autotune, 编译耗时:0.00，编译前运行耗时:3.35, 编译后运行耗时:10.07，耗时降低比例:-201.00%
+mode: default, 编译耗时:0.00，编译前运行耗时:1.73, 编译后运行耗时:1.52，耗时降低比例:12.29%
+mode: reduce-overhead, 编译耗时:0.01，编译前运行耗时:1.72, 编译后运行耗时:1.54，耗时降低比例:10.75%
+mode: max-autotune, 编译耗时:0.00，编译前运行耗时:1.71, 编译后运行耗时:1.55，耗时降低比例:9.90%
+Loading weights: 100%|██████████| 199/199 [00:00<00:00, 922.07it/s]
+[transformers] BertModel LOAD REPORT from: bert-base-uncased
+Key                                        | Status     |  | 
+-------------------------------------------+------------+--+-
+cls.predictions.transform.LayerNorm.bias   | UNEXPECTED |  | 
+cls.seq_relationship.bias                  | UNEXPECTED |  | 
+cls.predictions.transform.LayerNorm.weight | UNEXPECTED |  | 
+cls.seq_relationship.weight                | UNEXPECTED |  | 
+cls.predictions.transform.dense.bias       | UNEXPECTED |  | 
+cls.predictions.transform.dense.weight     | UNEXPECTED |  | 
+cls.predictions.bias                       | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+mode: default, 编译耗时:0.00，编译前运行耗时:0.69, 编译后运行耗时:0.41，耗时降低比例:41.60%
+mode: reduce-overhead, 编译耗时:0.00，编译前运行耗时:0.65, 编译后运行耗时:0.35，耗时降低比例:45.27%
+mode: max-autotune, 编译耗时:0.00，编译前运行耗时:0.68, 编译后运行耗时:0.35，耗时降低比例:48.66%
+mode: default, 编译耗时:0.00，编译前运行耗时:1.26, 编译后运行耗时:0.14，耗时降低比例:89.15%
+mode: reduce-overhead, 编译耗时:0.00，编译前运行耗时:1.30, 编译后运行耗时:0.12，耗时降低比例:90.65%
+mode: max-autotune, 编译耗时:0.01，编译前运行耗时:1.30, 编译后运行耗时:0.13，耗时降低比例:89.81%
